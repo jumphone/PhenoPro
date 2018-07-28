@@ -34,7 +34,7 @@ obo_file=sys.argv[1]
 HPO_disease_gene_file=sys.argv[2]
 output_dir=sys.argv[3]
 
-phenobayes_withrc.loading(obo_file,HPO_disease_gene_file,output_dir)
+phenopro.loading(obo_file,HPO_disease_gene_file,output_dir)
 
 HPO_disease_gene_demo='''
 #Format: diseaseId<tab>gene-symbol<tab>gene-id(entrez)<tab>HPO-ID<tab>HPO-term-name
