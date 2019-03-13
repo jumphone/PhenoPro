@@ -1,1 +1,1 @@
-# PhenoPro
+# The phenotype-part of PhenoPro
